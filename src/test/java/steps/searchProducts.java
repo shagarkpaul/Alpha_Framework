@@ -22,6 +22,8 @@ public class searchProducts extends googleBase{
 	@Given("i am on the google homepage")
 	public void i_am_on_the_google_homepage() {
 		
+		// hi, how are you? i am fine. 
+		
 		launchBrowser(); 
 		}
 
